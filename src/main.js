@@ -1,4 +1,4 @@
-const teleBot = require('TeleBot');
+const teleBot = require('telebot');
 const fs = require('fs');
 const CronJob = require('cron').CronJob;
 
