@@ -1,0 +1,26 @@
+{
+  "name": "gysel-bot",
+  "version": "1.0.0",
+  "description": "Sends messages to remind people to bring out the trash.",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eddex/gysel-bot.git"
+  },
+  "keywords": [
+    "telegram",
+    "bot"
+  ],
+  "author": "eddex",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eddex/gysel-bot/issues"
+  },
+  "dependencies": {
+    "cron": "^1.5.0",
+    "telebot": "^1.2.6"
+  }
+}
